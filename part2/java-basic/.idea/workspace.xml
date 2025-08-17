@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b43fcbfc-0419-428c-80ce-acf85dd6bf94" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/클래스, 객체, 인스턴스 정리.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/Section2.클래스,객체,인스턴스 정리.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,23 +45,28 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Personal/inflearn-java/part2/java-basic/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ref" />
       <recent name="class1.ex" />
       <recent name="class1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProductOrderMain">
-    <configuration name="ClassStart4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ClassStart4" />
+  <component name="RunManager" selected="Application.Method2">
+    <configuration name="Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.Method1" />
       <module name="java-basic" />
       <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.*" />
+          <option name="PATTERN" value="ref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,13 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassStart5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ClassStart5" />
+    <configuration name="Method1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.Method1_1" />
       <module name="java-basic" />
       <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.*" />
+          <option name="PATTERN" value="ref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieReviewMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ex.MovieReviewMain1" />
+    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.Method2" />
       <module name="java-basic" />
+      <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ex.*" />
+          <option name="PATTERN" value="ref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,13 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieReviewMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ex.MovieReviewMain2" />
+    <configuration name="MethodChange1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.MethodChange1" />
       <module name="java-basic" />
       <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ex.*" />
+          <option name="PATTERN" value="ref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOrderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ex.ProductOrderMain" />
+    <configuration name="MethodChange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.MethodChange2" />
       <module name="java-basic" />
       <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ex.*" />
+          <option name="PATTERN" value="ref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,19 +131,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ProductOrderMain" />
-      <item itemvalue="Application.MovieReviewMain1" />
-      <item itemvalue="Application.MovieReviewMain2" />
-      <item itemvalue="Application.ClassStart5" />
-      <item itemvalue="Application.ClassStart4" />
+      <item itemvalue="Application.Method2" />
+      <item itemvalue="Application.Method1_1" />
+      <item itemvalue="Application.Method1" />
+      <item itemvalue="Application.MethodChange2" />
+      <item itemvalue="Application.MethodChange1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProductOrderMain" />
-        <item itemvalue="Application.MovieReviewMain2" />
-        <item itemvalue="Application.MovieReviewMain1" />
-        <item itemvalue="Application.ClassStart5" />
-        <item itemvalue="Application.ClassStart4" />
+        <item itemvalue="Application.Method2" />
+        <item itemvalue="Application.Method1" />
+        <item itemvalue="Application.Method1_1" />
+        <item itemvalue="Application.MethodChange2" />
+        <item itemvalue="Application.MethodChange1" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +157,8 @@
       <updated>1755322030636</updated>
       <workItem from="1755322031625" duration="3649000" />
       <workItem from="1755349170259" duration="4337000" />
-      <workItem from="1755407491010" duration="2682000" />
+      <workItem from="1755407491010" duration="7329000" />
+      <workItem from="1755416702345" duration="1368000" />
     </task>
     <servers />
   </component>
