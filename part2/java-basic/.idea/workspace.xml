@@ -53,20 +53,21 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="oop1" />
       <recent name="ref.ex" />
       <recent name="ref" />
       <recent name="class1.ex" />
       <recent name="class1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProductOrderMain3">
-    <configuration name="NullMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.NullMain2" />
+  <component name="RunManager" selected="Application.AccountMain">
+    <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.ex.AccountMain" />
       <module name="java-basic" />
       <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ref.*" />
+          <option name="PATTERN" value="oop1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,13 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.NullMain3" />
+    <configuration name="MusicPlayerMain4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain4" />
       <module name="java-basic" />
       <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ref.*" />
+          <option name="PATTERN" value="oop1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,13 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullMain4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.NullMain4" />
+    <configuration name="RectangleOopMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.ex.RectangleOopMain" />
       <module name="java-basic" />
       <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ref.*" />
+          <option name="PATTERN" value="oop1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,13 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOrderMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.ex.ProductOrderMain2" />
+    <configuration name="RectangleProceduralMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.ex.RectangleProceduralMain" />
       <module name="java-basic" />
       <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ref.ex.*" />
+          <option name="PATTERN" value="oop1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,13 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOrderMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.ex.ProductOrderMain3" />
+    <configuration name="ValueObjectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.ValueObjectMain" />
       <module name="java-basic" />
       <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ref.ex.*" />
+          <option name="PATTERN" value="oop1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,19 +132,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ProductOrderMain3" />
-      <item itemvalue="Application.ProductOrderMain2" />
-      <item itemvalue="Application.NullMain4" />
-      <item itemvalue="Application.NullMain3" />
-      <item itemvalue="Application.NullMain2" />
+      <item itemvalue="Application.AccountMain" />
+      <item itemvalue="Application.RectangleOopMain" />
+      <item itemvalue="Application.RectangleProceduralMain" />
+      <item itemvalue="Application.MusicPlayerMain4" />
+      <item itemvalue="Application.ValueObjectMain" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProductOrderMain3" />
-        <item itemvalue="Application.ProductOrderMain2" />
-        <item itemvalue="Application.NullMain4" />
-        <item itemvalue="Application.NullMain3" />
-        <item itemvalue="Application.NullMain2" />
+        <item itemvalue="Application.AccountMain" />
+        <item itemvalue="Application.RectangleOopMain" />
+        <item itemvalue="Application.RectangleProceduralMain" />
+        <item itemvalue="Application.MusicPlayerMain4" />
+        <item itemvalue="Application.ValueObjectMain" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +160,11 @@
       <workItem from="1755349170259" duration="4337000" />
       <workItem from="1755407491010" duration="7329000" />
       <workItem from="1755416702345" duration="2687000" />
-      <workItem from="1755428428013" duration="4583000" />
+      <workItem from="1755428428013" duration="5298000" />
+      <workItem from="1755524506949" duration="3338000" />
+      <workItem from="1755527894071" duration="42000" />
+      <workItem from="1755527949341" duration="132000" />
+      <workItem from="1755528092987" duration="1991000" />
     </task>
     <servers />
   </component>
