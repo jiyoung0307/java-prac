@@ -53,21 +53,21 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="construct" />
       <recent name="oop1" />
       <recent name="ref.ex" />
       <recent name="ref" />
       <recent name="class1.ex" />
-      <recent name="class1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AccountMain">
-    <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ex.AccountMain" />
+  <component name="RunManager" selected="Application.BookMain">
+    <configuration name="BookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.ex.BookMain" />
       <module name="java-basic" />
       <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.ex.*" />
+          <option name="PATTERN" value="construct.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,13 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicPlayerMain4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain4" />
+    <configuration name="ConstructMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain1" />
       <module name="java-basic" />
       <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,13 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleOopMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ex.RectangleOopMain" />
+    <configuration name="ConstructMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain2" />
       <module name="java-basic" />
       <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.ex.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,13 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleProceduralMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ex.RectangleProceduralMain" />
+    <configuration name="MemberDefaultMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.MemberDefaultMain" />
       <module name="java-basic" />
       <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.ex.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,13 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValueObjectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ValueObjectMain" />
+    <configuration name="MethodInitMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.MethodInitMain3" />
       <module name="java-basic" />
       <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,19 +132,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AccountMain" />
-      <item itemvalue="Application.RectangleOopMain" />
-      <item itemvalue="Application.RectangleProceduralMain" />
-      <item itemvalue="Application.MusicPlayerMain4" />
-      <item itemvalue="Application.ValueObjectMain" />
+      <item itemvalue="Application.BookMain" />
+      <item itemvalue="Application.ConstructMain2" />
+      <item itemvalue="Application.MemberDefaultMain" />
+      <item itemvalue="Application.ConstructMain1" />
+      <item itemvalue="Application.MethodInitMain3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AccountMain" />
-        <item itemvalue="Application.RectangleOopMain" />
-        <item itemvalue="Application.RectangleProceduralMain" />
-        <item itemvalue="Application.MusicPlayerMain4" />
-        <item itemvalue="Application.ValueObjectMain" />
+        <item itemvalue="Application.BookMain" />
+        <item itemvalue="Application.ConstructMain1" />
+        <item itemvalue="Application.ConstructMain2" />
+        <item itemvalue="Application.MemberDefaultMain" />
+        <item itemvalue="Application.MethodInitMain3" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +164,9 @@
       <workItem from="1755524506949" duration="3338000" />
       <workItem from="1755527894071" duration="42000" />
       <workItem from="1755527949341" duration="132000" />
-      <workItem from="1755528092987" duration="1991000" />
+      <workItem from="1755528092987" duration="2165000" />
+      <workItem from="1755698189652" duration="2819000" />
+      <workItem from="1755946588101" duration="3595000" />
     </task>
     <servers />
   </component>
